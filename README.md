@@ -17,11 +17,6 @@ Check App demo here:
 
 <br/>
 
-## If you like this project you can help us with $1,000,000 donation or any other amount
-
-github: [github.com/sponsors/spiridonov-oa](https://github.com/sponsors/spiridonov-oa)
-patreon: [patreon.com/OlegSpiridonov](https://patreon.com/OlegSpiridonov)
-
 ## Compatibility
 
 React 17
@@ -129,9 +124,9 @@ npm start
 
 ## Author:
 
-[spiridonov-oa](https://github.com/spiridonov-oa)
+[SMILES00714](https://github.com/SMILES00714)
 
 ## Contributors:
 
 Thanks for your help in building this project
-[rodionspi](https://github.com/rodionspi)
+[SMILES00714](https://github.com/SMILES00714)
